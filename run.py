@@ -1,1 +1,3 @@
-from rizzy import menu
+from rizzy 
+import menu
+menu()
