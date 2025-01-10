@@ -1,1 +1,1 @@
-import rizzy
+from rizzy import menu
