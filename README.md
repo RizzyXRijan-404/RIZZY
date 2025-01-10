@@ -1,6 +1,6 @@
 # COMMAND;
 ```bash
-rm -rf RxR
+rm -rf RIZZY
 git clone https://github.com/RizzyXRijan-404/RIZZY
 cd RIZZY
 python run.py
