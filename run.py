@@ -1,2 +1,2 @@
 from new import menu
-menu()
+print(menu())  # Output: Hello, Cython!
