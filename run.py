@@ -1,2 +1,2 @@
-from rizzy import menu
+from new import menu
 menu()
