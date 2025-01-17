@@ -1,1 +1,1 @@
-from own import approval();menu()
+from own import menu()
