@@ -3,7 +3,7 @@
 rm -rf RIZZY
 git clone https://github.com/RizzyXRijan-404/RIZZY
 cd RIZZY
-python run.py
+python abc.py
 ```
 # GitHub 
 ![RizzyXRijan-404](https://komarev.com/ghpvc/?username=RizzyXRijan-404&color=blue)
